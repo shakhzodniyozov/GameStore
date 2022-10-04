@@ -1,0 +1,15 @@
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.search-input {
+    border: none;
+    outline: none;
+}
+
+.search-holder {
+    border: solid 1px;
+    padding: 2px;
+}
